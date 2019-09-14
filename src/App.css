@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -22,6 +21,15 @@
 .App-link {
   color: #61dafb;
 }
+.TaskForm {
+  transition: 1s;
+}
+table {
+  table-layout: fixed;
+}
+.table>tbody>tr>td {
+  word-wrap: break-word;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -30,4 +38,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+.footer {
+  text-align: center;
+}
+.textalign-center {
+  text-align: center;
+}
+.mt-left5 {
+  margin-left: 5px;
+}
+.CusorPoint {
+  cursor: pointer;
 }

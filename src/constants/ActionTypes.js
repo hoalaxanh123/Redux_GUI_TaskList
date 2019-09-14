@@ -1,0 +1,17 @@
+export const LIST_GETALL = "LIST_GETALL";
+export const ADD_TASK = "ADD_TASK";
+export const TOGGLE_FORM = "TOGGLE_FORM";
+export const CLOSE_FORM = "CLOSE_FORM";
+export const OPEN_FORM = "OPEN_FORM";
+export const CHANGE_STATUS = "CHANGE_STATUS";
+export const DELETE_TASK = "DELETE_TASK";
+export const RESET_LIST = "RESET_LIST";
+export const EDITABLE = "EDITABLE";
+export const SETEDITABLE = "SETEDITABLE";
+export const UNSETEDITABLE = "UNSETEDITABLE";
+export const EDITING_TASK = "EDITING_TASK";
+export const UPDATE_TASK = "UPDATE_TASK";
+export const SET_FILTER = "SET_FILTER";
+export const SET_KEYWORD = "SET_KEYWORD";
+export const SET_SORT = "SET_SORT";
+export const SET_TASKLIST = "SET_TASKLIST";
